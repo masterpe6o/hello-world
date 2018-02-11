@@ -1,2 +1,3 @@
 # hello-world
-this is my first repo
+This is my first repo
+It will be used for education
